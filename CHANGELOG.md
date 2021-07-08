@@ -1,5 +1,11 @@
 # Changelog
 
+## \[0.7.0]
+
+- - Enabled to access the `Segment` vector in `Chain`.
+- Added consistent line breaks between methods.
+- [50c0f53](https://www.github.com/iotaledger/crypto.rs/commit/50c0f53262861cdb4f3728a9a8c4e67b53ec68f0) Add .change file for Chain access on 2021-07-02
+
 ## \[0.6.0]
 
 - Added js feature to getrandom for wasm compatibility.
